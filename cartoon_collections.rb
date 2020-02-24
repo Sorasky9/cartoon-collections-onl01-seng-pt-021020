@@ -1,7 +1,7 @@
 def roll_call_dwarves(dwarves)
-dwarves.each_with_index do |num, i|
+dwarves.each_with_index do |num, i| i + 1
 
-puts "#{i} #{num}" 
+puts "#{i} #{num}"
 end
 
 end
