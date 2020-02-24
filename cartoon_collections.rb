@@ -9,6 +9,7 @@ def summon_captain_planet(veggies)
 veggies = veggies.split
   veggies.collect do |i| i + "!"
 
+return "#{veggies}"
   end
 end
 
