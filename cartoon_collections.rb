@@ -4,7 +4,7 @@ dwarves.each_with_index do |num, i| i + 1
 
 puts "#{i} #{num}"
 end
-
+dwarves
 end
 
 def summon_captain_planet# code an argument here
