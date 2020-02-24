@@ -12,9 +12,9 @@ def summon_captain_planet(veggies)
 end
 
 def long_planeteer_calls(calls_long)
-  if calls_long = 3
+  if calls_long = "axe"
     false
-  else 
+  else
     true
   end
 end
