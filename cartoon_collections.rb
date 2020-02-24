@@ -6,9 +6,7 @@ end
 end
 
 def summon_captain_planet(veggies)
-empty_array = []
-  fruits.collect do |i| i + !
-empty_array << fruits
+  veggies.collect do |i| i + !
   end
 end
 
