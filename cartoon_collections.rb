@@ -5,7 +5,7 @@ dwarves.each_with_index do |num, i|
 end
 end
 
-def summon_captain_planet
+def summon_captain_planet(fruits)
 
 
 end
