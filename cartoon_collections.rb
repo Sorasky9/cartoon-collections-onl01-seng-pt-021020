@@ -6,8 +6,10 @@ end
 end
 
 def summon_captain_planet(fruits)
-
-
+empty_array = []
+  fruits.collect do |i| i + !
+empty_array << fruits
+  end
 end
 
 def long_planeteer_calls# code an argument here
