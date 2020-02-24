@@ -5,7 +5,7 @@ dwarves.each_with_index do |num, i|
 end
 end
 
-def summon_captain_planet(fruits)
+def summon_captain_planet(veggies)
 empty_array = []
   fruits.collect do |i| i + !
 empty_array << fruits
